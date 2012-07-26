@@ -4,4 +4,5 @@ class Rule
     @description = description
   end
 
+  attr_reader :description
 end
